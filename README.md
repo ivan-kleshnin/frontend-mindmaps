@@ -22,8 +22,14 @@ React Developer Roadmap 2019
 
 * [Regex in JavaScript](https://egghead.io/courses/regex-in-javascript) (EggHead)
 
+### Functional Programming
+
+* [FP Fundamentals](https://www.pluralsight.com/courses/javascript-functional-programming-fundamentals) (PluralSight)
+* [FP Lite](https://www.pluralsight.com/courses/functional-lite-javascript) (PluralSight) OR [FP Lite](https://frontendmasters.com/courses/functional-javascript-v2/) (FrontendMasters)
+* [FP With Ramda](https://www.pluralsight.com/courses/javascript-ramda-functional) (PluralSight)
+
 ### Networks
 
 #### HTTP
 
-* [HTTP Fundamentals](https://www.pluralsight.com/courses/xhttp-fund) (PluralSight) or [HTTP Basics](https://www.pluralsight.com/courses/xhttp-fund) (EggHead)
+* [HTTP Fundamentals](https://www.pluralsight.com/courses/xhttp-fund) (PluralSight) OR [HTTP Basics](https://www.pluralsight.com/courses/xhttp-fund) (EggHead)
