@@ -11,7 +11,7 @@ React Developer Roadmap 2019
 **Subject Isolation:** it's easier to learn everything in isolation. I suggest you to avoid courses that conflate many subjects. 
 If series, for example, attempts to teach you JavaScript, Markup, Async Programming and who-knows-what in one run – you should avoid it like a plague. Such approach, btw, is common at Udemy and is one of the reasons I don't recommend this platform. Ideally, you should practice each topic immediately after the theory. Longer series delay practice, which makes you forget what you learned as a result. 
 
---
+---
 
 ## Markup
 
