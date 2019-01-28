@@ -8,8 +8,6 @@ React Developer Roadmap 2019
 
 ### Fundamentals
 
-https://coursehunters.net/course/js-intro
-
 #### Regexes
 
 * [Regex in JavaScript](https://egghead.io/courses/regex-in-javascript) (EggHead)
