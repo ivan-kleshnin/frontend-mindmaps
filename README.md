@@ -4,6 +4,14 @@ React Developer Roadmap 2019
 
 *Just a bunch of links for now*
 
+## Markup
+
+### Fundamentals
+
+#### Flexbox
+
+* [Flexbox Fundamentals](https://egghead.io/courses/flexbox-fundamentals) (EggHead)
+
 ## Programming
 
 ### Fundamentals
