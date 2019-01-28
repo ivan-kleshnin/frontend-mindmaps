@@ -4,6 +4,12 @@ React Developer Roadmap 2019
 
 *Just a bunch of links for now*
 
+#### Side Notes
+
+**Platforms**: there are basically 3 main video sites: PluralSight, FrontendMasters and EggHead. Other sites, like Udemy may have some gems but, not good enough in average to bother with subscriptions. EggHead format fits better for narrow topics (like library courses) and PluralSight & FrontendMasters formats are great for wider topics. 
+
+--
+
 ## Markup
 
 ### Fundamentals
