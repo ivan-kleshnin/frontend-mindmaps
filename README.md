@@ -22,6 +22,10 @@ React Developer Roadmap 2019
 
 * [Regex in JavaScript](https://egghead.io/courses/regex-in-javascript) (EggHead)
 
+### EcmaScript
+
+* [JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) (FrontendMasters)
+
 ### Functional Programming
 
 * [FP Fundamentals](https://www.pluralsight.com/courses/javascript-functional-programming-fundamentals) (PluralSight)
