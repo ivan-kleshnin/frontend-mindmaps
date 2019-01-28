@@ -6,7 +6,7 @@ React Developer Roadmap 2019
 
 #### Side Notes
 
-**Platforms:** there are basically 3 main video sites: PluralSight, FrontendMasters and EggHead. Other sites, like Udemy may have some gems but, in average, aren't good enough to bother with subscriptions i.m.o. EggHead format works better for smaller, more focused topics while PluralSight & FrontendMasters really shine for larger, more general topics. So, say, if you want to learn a library (Redux?) – check EggHead first. If, hovewer, you want to learn programming basics – check to the other two.
+**Platforms:** there are basically 3 main video sites: PluralSight, FrontendMasters and EggHead. Other sites, like Udemy may have some gems but, in average, aren't good enough to bother with subscriptions i.m.o. EggHead format works better for smaller, more focused topics while PluralSight & FrontendMasters really shine for larger, more general topics. So, say, if you want to learn a library (Redux?) – check EggHead first. If, hovewer, you want to learn programming basics – go to the other two.
 
 **Subject Isolation:** it's easier to learn everything in isolation. I suggest you to avoid courses that conflate many subjects. 
 If series, for example, attempts to teach you JavaScript, Markup, Async Programming and who-knows-what in one run – you should avoid it like a plague. Such approach, btw, is common at Udemy and is one of the reasons I don't recommend this platform. Ideally, you should practice each topic immediately after the theory. Longer series delay practice, which makes you forget what you learned as a result. 
