@@ -1,6 +1,4 @@
-# react-developer-roadmap
-
-React Developer Roadmap 2019
+# Junior React Developer Roadmap 2019
 
 *Just a bunch of links for now*
 
@@ -41,6 +39,10 @@ If series, for example, attempts to teach you JavaScript, Markup, Async Programm
 * [FP Fundamentals](https://www.pluralsight.com/courses/javascript-functional-programming-fundamentals) (PluralSight)
 * [FP Lite](https://www.pluralsight.com/courses/functional-lite-javascript) (PluralSight) OR [FP Lite](https://frontendmasters.com/courses/functional-javascript-v2/) (FrontendMasters)
 * [FP With Ramda](https://www.pluralsight.com/courses/javascript-ramda-functional) (PluralSight)
+
+### React
+
+* [React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4) (EggHead)
 
 ### Networks
 
