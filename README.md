@@ -15,8 +15,6 @@ If series, for example, attempts to teach you JavaScript, Markup, Async Programm
 
 ### Fundamentals
 
-#### Flexbox
-
 * [Flexbox Fundamentals](https://egghead.io/courses/flexbox-fundamentals) (EggHead)
 
 ## Programming
@@ -24,10 +22,7 @@ If series, for example, attempts to teach you JavaScript, Markup, Async Programm
 ### Fundamentals
 
 * [Learning To Program](https://www.pluralsight.com/courses/learning-programming-javascript) (PluralSight) OR [Programming Basics](https://www.pluralsight.com/courses/javascript-programming-basics) (PluralSight)
-
-#### Regexes
-
-* [Regex in JavaScript](https://egghead.io/courses/regex-in-javascript) (EggHead)
+* [Regexes in JavaScript](https://egghead.io/courses/regex-in-javascript) (EggHead)
 
 ### EcmaScript
 
@@ -40,6 +35,14 @@ If series, for example, attempts to teach you JavaScript, Markup, Async Programm
 * [FP Lite](https://www.pluralsight.com/courses/functional-lite-javascript) (PluralSight) OR [FP Lite](https://frontendmasters.com/courses/functional-javascript-v2/) (FrontendMasters)
 * [FP With Ramda](https://www.pluralsight.com/courses/javascript-ramda-functional) (PluralSight)
 
+### Asynchronous Programming
+
+* [JS Promises in depth](https://egghead.io/courses/javascript-promises-in-depth) (EggHead)
+* [Async JS with async-await](https://egghead.io/courses/asynchronous-javascript-with-async-await) (EggHead)
+* [Rethinking Async JS](https://frontendmasters.com/courses/rethinking-async-js/) (FrontendMasters) OR [Rethinking Async JS](https://www.pluralsight.com/courses/rethinking-asynchronous-programming) (FrontendMasters)
+* [Reasoning about Async JS](https://www.pluralsight.com/courses/asynchronous-javascript-reasoning) (PluralSight)
+* [Modern Async JS](https://www.pluralsight.com/courses/javascript-asynchronous-modern) (PluralSight) (move to advanced?)
+
 ### React
 
 * [React 16 for everyone](https://www.leveluptutorials.com/tutorials/react-16-for-everyone) (LevelUP)
@@ -50,7 +53,5 @@ If series, for example, attempts to teach you JavaScript, Markup, Async Programm
 * [React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4) (EggHead)
 
 ### Networks
-
-#### HTTP
 
 * [HTTP Fundamentals](https://www.pluralsight.com/courses/xhttp-fund) (PluralSight) OR [HTTP Basics](https://www.pluralsight.com/courses/xhttp-fund) (EggHead)
