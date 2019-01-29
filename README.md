@@ -34,6 +34,7 @@ If series, for example, attempts to teach you JavaScript, Markup, Async Programm
 ### EcmaScript
 
 * [JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) (FrontendMasters)
+* [Understanding Prototypal Inheritance](https://egghead.io/courses/understanding-javascript-s-prototypal-inheritance) (EggHead)
 
 ### Functional Programming
 
