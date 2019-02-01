@@ -22,7 +22,7 @@ If series, for example, attempts to teach you JavaScript, Markup, Async Programm
 ### Fundamentals
 
 * [Learning To Program](https://www.pluralsight.com/courses/learning-programming-javascript) (PluralSight) OR [Programming Basics](https://www.pluralsight.com/courses/javascript-programming-basics) (PluralSight)
-* [Boolean Algebra](https://www.youtube.com/watch?v=gj8QmRQtVao)
+* [Boolean Algebra](https://www.youtube.com/watch?v=gj8QmRQtVao) (YouTube)
 * [Regexes in JavaScript](https://egghead.io/courses/regex-in-javascript) (EggHead)
 
 ### EcmaScript
