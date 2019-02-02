@@ -23,6 +23,7 @@ If series, for example, attempts to teach you JavaScript, Markup, Async Programm
 
 * [Boolean Algebra](https://www.youtube.com/watch?v=gj8QmRQtVao) (YouTube)
 * Set Theory (TODO)
+* [Intro to Discrete Math](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) (YouTube)
 
 ### CS Fundamentals
 
