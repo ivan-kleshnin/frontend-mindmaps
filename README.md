@@ -1,7 +1,5 @@
 # Junior React Developer Roadmap 2019
 
-*Just a bunch of links for now*
-
 #### Side Notes
 
 **Platforms:** I recommend PluralSight, EggHead, FrontendMasters, and LevelUP Tutorials. Either the content they deliver is exlusively great or they have course ratings you can actually trust. EggHead's format works better for smaller, more focused topics while PluralSight & FrontendMasters really shine for larger and general topics. Each course at LevelUP Tutorials is brilliant i.m.o. so I would check it the first if you're interested in React or GraphQL. Otherwise, if you want to learn a library (Redux?) – go for EggHead. If you want to learn some fundamentals – go for the PluralSight or FrontendMasters. There are many gems of content at other platforms indeed, but, as paying for multiple subscriptions is a waste, I prefer to stick to the limited *trusted* set. Udemy, in particular, was noticed to use some really bad practices: content stealing, rating manipulations, etc. I suggest to avoid this platform alltogether. 
@@ -17,12 +15,23 @@ If series, for example, attempts to teach you JavaScript, Markup, Async Programm
 
 * [Flexbox Fundamentals](https://egghead.io/courses/flexbox-fundamentals) (EggHead)
 
+## Math & CS
+
+### Discrete Math
+
+* [Boolean Algebra](https://www.youtube.com/watch?v=gj8QmRQtVao) (YouTube)
+* Set Theory (TODO)
+
+### CS Fundamentals
+
+* Binary Numbers (TODO)
+* [Algorithms](https://github.com/trekhleb/javascript-algorithms) (GitHub)
+
 ## Programming
 
 ### Fundamentals
 
 * [Learning To Program](https://www.pluralsight.com/courses/learning-programming-javascript) (PluralSight) OR [Programming Basics](https://www.pluralsight.com/courses/javascript-programming-basics) (PluralSight)
-* [Boolean Algebra](https://www.youtube.com/watch?v=gj8QmRQtVao) (YouTube)
 * [Regexes in JavaScript](https://egghead.io/courses/regex-in-javascript) (EggHead)
 
 ### EcmaScript
