@@ -1,6 +1,6 @@
 # Junior React Developer Roadmap 2019
 
-[!Roadmap](./roadmap.png)
+![Roadmap](./roadmap.png)
 
 #### Side Notes
 
