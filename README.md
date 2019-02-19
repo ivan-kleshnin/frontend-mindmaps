@@ -11,6 +11,8 @@ If series, for example, attempts to teach you JavaScript, Markup, Async Programm
 
 ---
 
+Now, to help you further, for each topic I picked the sources I personally consider the best. Obviously they rarely have 100% coincidience with the above topic layout. Some cover more than I would do, some – less. Whatever, everyone's vision is unique and it's great. I strongly believe that you should learn from multiple authors.
+
 ## Markup
 
 ### Fundamentals
