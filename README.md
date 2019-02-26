@@ -62,6 +62,7 @@ Now, to help you further, for each topic I picked the sources I personally consi
 
 * [React 16 for everyone](https://www.leveluptutorials.com/tutorials/react-16-for-everyone) (LevelUP)
 * [Beginner's guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) (EggHead)
+* [Start Learning React](https://egghead.io/courses/start-learning-react) (EggHead)
 
 ### React-Router
 
