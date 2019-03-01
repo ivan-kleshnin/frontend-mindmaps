@@ -11,6 +11,8 @@ If series, for example, attempts to teach you JavaScript, Markup, Async Programm
 
 ---
 
+Now, to help you further, for each topic I picked the sources I personally consider the best. Obviously they rarely have 100% coincidience with the above topic layout. Some cover more than I would do, some – less. Whatever, everyone's vision is unique and it's great. I strongly believe that you should learn from multiple authors.
+
 ## Markup
 
 ### Fundamentals
@@ -60,6 +62,7 @@ If series, for example, attempts to teach you JavaScript, Markup, Async Programm
 
 * [React 16 for everyone](https://www.leveluptutorials.com/tutorials/react-16-for-everyone) (LevelUP)
 * [Beginner's guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) (EggHead)
+* [Start Learning React](https://egghead.io/courses/start-learning-react) (EggHead)
 
 ### React-Router
 
