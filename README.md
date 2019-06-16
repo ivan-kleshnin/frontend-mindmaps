@@ -64,3 +64,7 @@ Now, to help you further, for each topic I picked the sources I personally consi
 ### Networks
 
 * [HTTP Fundamentals](https://www.pluralsight.com/courses/xhttp-fund) (PluralSight) OR [HTTP Basics](https://www.pluralsight.com/courses/xhttp-fund) (EggHead)
+
+---
+
+Each ★ motivates us to keep updating ;)
