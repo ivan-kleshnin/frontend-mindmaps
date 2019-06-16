@@ -67,4 +67,4 @@ Now, to help you further, for each topic I picked the sources I personally consi
 
 ---
 
-Each ★ motivates us to keep updating ;)
+Please give us a ★ to support the creation of a free content.
