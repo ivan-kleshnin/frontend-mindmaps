@@ -15,26 +15,19 @@ Now, to help you further, for each topic I picked the sources I personally consi
 
 ## Markup
 
-### Fundamentals
+### CSS3
 
 * [Flexbox Fundamentals](https://egghead.io/courses/flexbox-fundamentals) (EggHead)
 
 ## Math & CS
 
-### Discrete Math
-
 * [Boolean Algebra](https://www.youtube.com/watch?v=gj8QmRQtVao) (YouTube)
-* Set Theory (TODO)
 * [Intro to Discrete Math](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) (YouTube)
-
-### CS Fundamentals
-
-* Binary Numbers (TODO)
 * [Algorithms](https://github.com/trekhleb/javascript-algorithms) (GitHub)
 
 ## Programming
 
-### Fundamentals
+### Programming Fundamentals
 
 * [Learning To Program](https://www.pluralsight.com/courses/learning-programming-javascript) (PluralSight) OR [Programming Basics](https://www.pluralsight.com/courses/javascript-programming-basics) (PluralSight)
 * [Regexes in JavaScript](https://egghead.io/courses/regex-in-javascript) (EggHead)
