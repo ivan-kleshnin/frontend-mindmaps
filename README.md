@@ -1,6 +1,6 @@
 # Junior Frontend / React Developer 
 
-![Roadmap](./roadmap.png)
+![Roadmap](./frontend.png)
 
 #### Side Notes
 
