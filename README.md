@@ -1,4 +1,4 @@
-# Junior React Developer Roadmap 2019
+# Junior Frontend / React Developer 
 
 ![Roadmap](./roadmap.png)
 
@@ -27,15 +27,12 @@ Now, to help you further, for each topic I picked the sources I personally consi
 
 ## Programming
 
-### Programming Fundamentals
+### JavaScript
 
 * [Learning To Program](https://www.pluralsight.com/courses/learning-programming-javascript) (PluralSight) OR [Programming Basics](https://www.pluralsight.com/courses/javascript-programming-basics) (PluralSight)
-* [Regexes in JavaScript](https://egghead.io/courses/regex-in-javascript) (EggHead)
-
-### EcmaScript
-
 * [JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) (FrontendMasters)
 * [Understanding Prototypal Inheritance](https://egghead.io/courses/understanding-javascript-s-prototypal-inheritance) (EggHead)
+* [Regexes in JavaScript](https://egghead.io/courses/regex-in-javascript) (EggHead)
 
 ### Functional Programming
 
