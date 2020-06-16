@@ -2,13 +2,13 @@
  
 *Note: work in progress...*
 
+## Mindmaps
+
+1. [**Junior Frontend Developer**](junior.png?raw=true) (image)
+2. [**Middle Frontend Developer**](middle.png?raw=true) (image)
+3. [**Senior Frontend Developer**](senior.png?raw=true) (image)
+
 ![Mindmap](./junior.png)
-
-#### Mindmaps
-
-1. [**Junior Frontend Developer**](./junior.png) (image)
-2. [**Middle Frontend Developer**](./junior.png) (image)
-3. [**Senior Frontend Developer**](./junior.png) (image)
 
 ## Recommendations
 
