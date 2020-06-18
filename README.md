@@ -28,14 +28,7 @@ TODO
 
 [**CCA 3.0**](https://creativecommons.org/licenses/by/3.0/deed.en)
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format.
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
-
-Under the following terms:
-- Attribution — you must give appropriate credit, provide a link to the license, and indicate if changes were made. 
-You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- No additional restrictions
+(Free to share and modify. **Attribution required**)
 
 --- 
 
