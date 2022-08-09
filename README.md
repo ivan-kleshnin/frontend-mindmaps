@@ -4,9 +4,10 @@
 
 ## Mindmaps
 
-1. [**Junior Frontend Developer**](junior.png?raw=true) (image)
-2. [**Middle Frontend Developer**](middle.png?raw=true) (image)
-3. [**Senior Frontend Developer**](senior.png?raw=true) (image)
+1. [**Intern Frontend Developer**](intern.png?raw=true) (image, updated for 2022)
+2. [**Junior Frontend Developer**](junior.png?raw=true) (image, 2020)
+3. [**Middle Frontend Developer**](middle.png?raw=true) (image, 2020)
+4. [**Senior Frontend Developer**](senior.png?raw=true) (image, 2020)
 
 ![Mindmap](./junior.png)
 
