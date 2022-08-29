@@ -33,4 +33,4 @@ TODO
 
 --- 
 
-Please ★ this repo if you care about the further updates.
+Please ★ this repo to support our work!
